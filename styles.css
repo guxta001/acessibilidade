@@ -57,7 +57,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--black);
+    background-color: var(--preto);
     border-radius: 30px;
     border: none;
     width: 14em;
